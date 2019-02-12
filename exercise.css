@@ -7,6 +7,9 @@ body {
 .bold {
   font-weight: bold;
 }
+.container {
+  margin-bottom: 20px;
+}
 
 .container h2{
   border: 5px dashed red;
@@ -15,7 +18,7 @@ body {
   color: red;
 }
 
-li {
+ul {
   list-style: none;
 }
 
